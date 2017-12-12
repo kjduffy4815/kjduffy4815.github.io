@@ -1,0 +1,22 @@
+.btn-lg {
+	width: 200px;
+	height: 100px;
+	display: block;
+	margin: auto;
+	font-size: 20px;
+}
+.navbar-title {
+	color: white;
+}
+.nav-link {
+	color: white;
+}
+.navbar-brand {
+	float: left;
+}
+.nav-link {
+	float: right;
+}
+nav a:hover {
+	font-size: 
+}
