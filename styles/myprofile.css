@@ -1,0 +1,14 @@
+body {
+	background-image: url(../img/coverphoto.jpg);
+	background-size: cover;
+}
+.Boximages {
+	display: block;
+	margin: auto;
+}
+.BoxText {
+	text-align: center;
+}
+.card-block {
+	background-color: white;
+}
